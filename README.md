@@ -8,6 +8,7 @@ Currently:
 + User log-in is working
 + Chatting is working 
 + Matching is working 
+
 Next Steps:
 + Enhance question quality for better matching 
 + Improve security measures to protect user data
